@@ -14,7 +14,7 @@ The dataset used for this project is collected from Kaggle, named "Paddy Disease
   - Mean pixel value: 115.9670
   - Standard deviation: 71.6155
 
-The dataset can be accessed from [this link](https://drive.google.com/drive/folders/1wYOcrSzxh8MEXws0f_R0FpCf1kOgmM02?usp=sharing).
+The dataset can be accessed from [this link](https://www.kaggle.com/competitions/paddy-disease-classification/data).
 
 ## Model
 
